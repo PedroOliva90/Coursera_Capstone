@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This project is an introduction to Capstone Project
+This project is an introduction to the Capstone Project
